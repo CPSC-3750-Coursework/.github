@@ -18,8 +18,7 @@ TR 11:00-12:15pm - McAdams 224
 W 3-4pm - MS Teams   
 
 **TA:**  
-Aditeya Srivastava (aditeys@clemson.edu)  
-Office Hours:  
-WF 3-4pm - MS Teams
+Apoorva Gaddam (agaddam@clemson.edu)  
+
 
 ### **NOTE: Don't message on Canvas**
