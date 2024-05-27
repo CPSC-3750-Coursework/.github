@@ -13,9 +13,6 @@ Platform-based development of client- and server-side technologies. Students cre
 
 **Instructor:**  
 Professor Dan Wooster (edwoost@clemson.edu)  
-Office Hours:  
-TR 11:00-12:15pm - McAdams 224  
-W 3-4pm - MS Teams   
 
 **TA:**  
 Apoorva Gaddam (agaddam@clemson.edu)  
